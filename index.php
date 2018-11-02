@@ -1,6 +1,4 @@
-<?php
-
-?>
+<html>
 <head>
 <!--    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4huLY3redGRrT2_s-Mng8gNIIosFJDww&libraries=places"></script>-->
     <script src="assets/js/suncalc.js"></script>
@@ -8,14 +6,15 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="assets/js/jquery.min.js"></script>
 <!--    //disabled because of api key issues-->
-<!--    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/20625/jquery.geocomplete.min.js"></script>-->
+    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/20625/jquery.geocomplete.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
             integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
             crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
           integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <title>Reflow Circadian</title>
 </head>
-<html>
+
 <div class="container">
 <h1>Reflow Circadian</h1>
     <div class="mySubtitle">Calculate sunrise and sunset times based on your current location.</br></div>
